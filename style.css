@@ -1,0 +1,57 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+body{
+	background: #08849C;
+}
+.lk{text-align: center; margin-top: 10px;
+	color: #fff;
+}
+.form{
+	width: 400px;
+	height: 345px;
+	background: #ECEFF4;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%,-50%);
+	padding: 10px;
+	
+} 
+input{ 
+	padding: 10px;
+}
+.user{
+	width: 365px;
+	height: 50px;
+	margin: auto;
+	border:2px solid #EDF0F5;
+	margin-bottom: 15px;
+}
+.login{
+	width: 365px;
+	height: 50px;
+	margin: auto;
+	border: none;
+	margin-bottom: 5px;
+	font-size: 15px;
+	font-weight: 750;
+	background: #1877F2;
+	color: #fff;
+}
+p{
+	margin-top: 10px;
+	margin-bottom: 5px;
+	text-align: center;
+}
+
+.pass{
+	font-size: 15 px;
+	
+	
+}
+.pass, a{
+	text-decoration: none;
+}
